@@ -1,0 +1,167 @@
+{
+  "recognized_statuses": [
+    "completed",
+    "shipped",
+    "delivered"
+  ],
+  "pipeline_1_top_products": [
+    {
+      "units_sold": 67,
+      "category_id": "cat_021",
+      "category_name": "Mitchell-Kim",
+      "product_id": "prod_04940",
+      "product_name": "Advanced Exuding Artificial Intelligence",
+      "gross_item_revenue_usd": 37377.29,
+      "distinct_orders": 32
+    },
+    {
+      "units_sold": 71,
+      "category_id": "cat_021",
+      "category_name": "Mitchell-Kim",
+      "product_id": "prod_02715",
+      "product_name": "Operative Homogeneous Functionalities",
+      "gross_item_revenue_usd": 36279.58,
+      "distinct_orders": 32
+    },
+    {
+      "units_sold": 74,
+      "category_id": "cat_019",
+      "category_name": "Powell PLC",
+      "product_id": "prod_01889",
+      "product_name": "Triple-Buffered Value-Added Workforce",
+      "gross_item_revenue_usd": 34334.52,
+      "distinct_orders": 31
+    },
+    {
+      "units_sold": 58,
+      "category_id": "cat_003",
+      "category_name": "Bush Inc",
+      "product_id": "prod_03061",
+      "product_name": "Synchronized Mobile Matrix",
+      "gross_item_revenue_usd": 32505.52,
+      "distinct_orders": 27
+    },
+    {
+      "units_sold": 69,
+      "category_id": "cat_015",
+      "category_name": "Owens-Daniel",
+      "product_id": "prod_04939",
+      "product_name": "Programmable Object-Oriented Open Architecture",
+      "gross_item_revenue_usd": 32276.82,
+      "distinct_orders": 33
+    },
+    {
+      "units_sold": 60,
+      "category_id": "cat_006",
+      "category_name": "Ellis, Baker and Wright",
+      "product_id": "prod_02161",
+      "product_name": "Multi-Layered Stable Concept",
+      "gross_item_revenue_usd": 32136.6,
+      "distinct_orders": 28
+    },
+    {
+      "units_sold": 60,
+      "category_id": "cat_019",
+      "category_name": "Powell PLC",
+      "product_id": "prod_03337",
+      "product_name": "Intuitive Multi-State Hub",
+      "gross_item_revenue_usd": 31536.0,
+      "distinct_orders": 28
+    },
+    {
+      "units_sold": 73,
+      "category_id": "cat_017",
+      "category_name": "Hancock Inc",
+      "product_id": "prod_00823",
+      "product_name": "Enterprise-Wide Local Analyzer",
+      "gross_item_revenue_usd": 31389.27,
+      "distinct_orders": 36
+    },
+    {
+      "units_sold": 55,
+      "category_id": "cat_014",
+      "category_name": "Anderson, Walls and Duncan",
+      "product_id": "prod_02419",
+      "product_name": "Team-Oriented Client-Server Monitoring",
+      "gross_item_revenue_usd": 30908.9,
+      "distinct_orders": 25
+    },
+    {
+      "units_sold": 60,
+      "category_id": "cat_024",
+      "category_name": "Patterson, Smith and Jones",
+      "product_id": "prod_03222",
+      "product_name": "Horizontal Systematic Superstructure",
+      "gross_item_revenue_usd": 29797.2,
+      "distinct_orders": 28
+    },
+    {
+      "units_sold": 56,
+      "category_id": "cat_012",
+      "category_name": "Carney-Santos",
+      "product_id": "prod_04449",
+      "product_name": "Ameliorated Modular Intranet",
+      "gross_item_revenue_usd": 29173.2,
+      "distinct_orders": 24
+    },
+    {
+      "units_sold": 61,
+      "category_id": "cat_023",
+      "category_name": "King-Odonnell",
+      "product_id": "prod_03694",
+      "product_name": "Decentralized National Process Improvement",
+      "gross_item_revenue_usd": 28921.32,
+      "distinct_orders": 31
+    },
+    {
+      "units_sold": 87,
+      "category_id": "cat_001",
+      "category_name": "Baldwin Ltd",
+      "product_id": "prod_01751",
+      "product_name": "Diverse Motivating Time-Frame",
+      "gross_item_revenue_usd": 28811.79,
+      "distinct_orders": 39
+    },
+    {
+      "units_sold": 63,
+      "category_id": "cat_024",
+      "category_name": "Patterson, Smith and Jones",
+      "product_id": "prod_02091",
+      "product_name": "Configurable Zero Tolerance Projection",
+      "gross_item_revenue_usd": 28517.58,
+      "distinct_orders": 28
+    },
+    {
+      "units_sold": 59,
+      "category_id": "cat_009",
+      "category_name": "Skinner-Romero",
+      "product_id": "prod_01360",
+      "product_name": "Up-Sized Bottom-Line Contingency",
+      "gross_item_revenue_usd": 28455.7,
+      "distinct_orders": 27
+    }
+  ],
+  "pipeline_2_user_segments": [
+    {
+      "users": 8896,
+      "orders": 36856,
+      "segment": "regular",
+      "revenue_usd": 38427683.29,
+      "average_spend_per_user_usd": 4319.66
+    },
+    {
+      "users": 748,
+      "orders": 6576,
+      "segment": "high_value",
+      "revenue_usd": 6826192.49,
+      "average_spend_per_user_usd": 9125.93
+    },
+    {
+      "users": 247,
+      "orders": 317,
+      "segment": "occasional",
+      "revenue_usd": 85622.91,
+      "average_spend_per_user_usd": 346.65
+    }
+  ]
+}

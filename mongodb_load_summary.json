@@ -1,0 +1,36 @@
+{
+  "database": "ecommerce_analytics",
+  "mongo_uri": "mongodb://127.0.0.1:27018",
+  "source_counts": {
+    "categories": 25,
+    "products": 5000,
+    "users": 10000,
+    "transactions": 50000
+  },
+  "loaded_counts": {
+    "categories": 25,
+    "products": 5000,
+    "users": 10000,
+    "transactions": 50000
+  },
+  "indexes": {
+    "products": [
+      "_id_",
+      "idx_product_category",
+      "idx_product_active"
+    ],
+    "users": [
+      "_id_",
+      "idx_user_state",
+      "idx_user_order_count"
+    ],
+    "transactions": [
+      "_id_",
+      "idx_txn_user_time",
+      "idx_txn_time",
+      "idx_txn_item_product",
+      "idx_txn_item_category"
+    ]
+  },
+  "load_seconds": 3.413
+}
