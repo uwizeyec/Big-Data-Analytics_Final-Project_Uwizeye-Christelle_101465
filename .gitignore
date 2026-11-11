@@ -1,0 +1,21 @@
+# Generated/raw data and derived results are reproducible and may be large.
+data/raw/
+data/processed/
+data/hbase/
+data/analytics/
+
+# Keep report-ready visualizations and documentation under version control.
+!data/visualizations/
+!data/visualizations/*.png
+!data/appendix_screenshots/
+!data/appendix_screenshots/*.png
+
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.idea/
+.vscode/
+
+# Local database volumes/configuration
+*.log
+.env
