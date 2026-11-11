@@ -1,5 +1,8 @@
 # Generated/raw data and derived results are reproducible and may be large.
-data/raw/
+# The smaller raw inputs are included for inspection and reproducibility.
+# These two full session files exceed GitHub's 100 MB individual-file limit.
+data/raw/sessions_0.json
+data/raw/sessions_1.json
 
 # Keep report-ready visualizations and documentation under version control.
 !data/visualizations/
