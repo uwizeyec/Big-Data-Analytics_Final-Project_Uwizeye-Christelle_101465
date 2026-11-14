@@ -1,0 +1,27 @@
+{
+  "chunk_size_bytes": 47185920,
+  "files": [
+    {
+      "original_name": "sessions_0.json",
+      "original_bytes": 187941388,
+      "sha256": "7dc4c6ae604b61ef91595d38747575c58e535ff484bab72ae6d2b6feb65c08c4",
+      "parts": [
+        "sessions_0.json.part001",
+        "sessions_0.json.part002",
+        "sessions_0.json.part003",
+        "sessions_0.json.part004"
+      ]
+    },
+    {
+      "original_name": "sessions_1.json",
+      "original_bytes": 188179274,
+      "sha256": "6bc27e0c5b45605e419a5beadf3ad288458ed0e0c07b38eaa49f96d952e87ca0",
+      "parts": [
+        "sessions_1.json.part001",
+        "sessions_1.json.part002",
+        "sessions_1.json.part003",
+        "sessions_1.json.part004"
+      ]
+    }
+  ]
+}
